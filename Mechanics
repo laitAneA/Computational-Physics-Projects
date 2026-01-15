@@ -1,1 +1,9 @@
+### The Lagrangian of a Simple Pendulum
+The dynamics of the system are described by the Lagrangian $L$, defined as the difference between kinetic energy ($T$) and potential energy ($V$):
 
+$$L = T - V = \frac{1}{2}ml^2\dot{\theta}^2 + mgl\cos\theta$$
+
+Where:
+- $m$ is the mass of the bob
+- $l$ is the length of the rod
+- $\dot{\theta}$ is the angular velocity
